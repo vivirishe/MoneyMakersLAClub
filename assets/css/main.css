@@ -2052,6 +2052,12 @@
       font-weight: bold;
     }
 
+    .sideImage {
+      max-width: auto;
+      max-height: auto;
+      text-align: center;
+    }
+
 /* Footer */
 
 	#footer {
